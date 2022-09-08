@@ -1,10 +1,5 @@
 ## Welcome to Challenge 5
 
-<<<<<<< HEAD
-Welcome to the fifth challenge! 
-=======
-Welcome to the fourth challenge! 
->>>>>>> e5a28d5 (Challenge 5)
 Today's goal is to update your forked repository and then create a Pull Request
 
 Task
